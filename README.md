@@ -1,5 +1,5 @@
 ## Hi there!! 👩🏽‍💻
-I’m a Computer Engineering & Computer Science student at USC Viterbi who likes working close to the hardware. I’m especially interested in embedded systems, robotics, and brain–computer interfaces, where software decisions directly affect physical and human-centered systems. 
+I’m a Computer Engineering & Computer Science student(EE+CS) at USC Viterbi who likes working close to the hardware. I’m especially interested in embedded systems, robotics, and brain computer interfaces, where software decisions directly affect physical and human centered systems.
 
 ## What I'm working on.. 🛠️
 * Writing low-level C for AVR microcontrollers
